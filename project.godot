@@ -21,7 +21,7 @@ llm_api="ollama_api"
 
 config/name="comprimir-godot"
 run/main_scene="res://prueba/control.tscn"
-config/features=PackedStringArray("4.4", "Mobile")
+config/features=PackedStringArray("4.5", "Mobile")
 config/icon="res://icon.svg"
 
 [file_customization]
